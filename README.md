@@ -9,7 +9,7 @@ Thanks to the great work of the original creator for making it so easy for a beg
 
 ## After
 <p><img alt="screenshot" src="https://i.imgur.com/Y72s1w4.png" width="700px"></p>
-<p><img alt="screenshot" src="https://i.imgur.com/Cs47A8D.png" width="700px"></p>
+<p><img alt="screenshot" src="https://i.imgur.com/ZdOo6Sn.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/9AYZhN2.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/swggBJW.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/gACbMVK.png" width="700px"></p>
