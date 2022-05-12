@@ -12,7 +12,6 @@ Thanks to the great work of the original creator for making it so easy for a beg
 <p><img alt="screenshot" src="https://i.imgur.com/Cs47A8D.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/9AYZhN2.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/swggBJW.png" width="700px"></p>
-<p><img alt="screenshot" src="https://github.com/depsterr/mfetch/blob/master/scrot/scrot3.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/gACbMVK.png" width="700px"></p>
 
 <h1 align="center">mfetch</h1>
