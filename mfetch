@@ -1,13 +1,16 @@
 #!/bin/sh
 # read system info
 host=$(hostname)
+# get OS name and version
 raw_os_data=$(sw_vers)
 remove_a="ProductName:	"
 remove_b="ProductVersion:	"
 rem_a=${raw_os_data//$remove_a}
 rem_b=${rem_a//$remove_b}
 rem_c=${rem_b%BuildVersion:*}
-os=$rem_c
+rem_d=${rem_c//$'\n'/}
+os=$rem_d
+# get kernel name and version
 kernel=$(uname -rs)
 
 # Get wm from xinitrc
