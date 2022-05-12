@@ -3,10 +3,8 @@
 host=$(hostname)
 # get OS name and version
 raw_os_data=$(sw_vers)
-remove_a="ProductName:	"
-remove_b="ProductVersion:	"
-rem_a=${raw_os_data//$remove_a}
-rem_b=${rem_a//$remove_b}
+rem_a=${raw_os_data//"ProductName:	"}
+rem_b=${rem_a//"ProductVersion:	"}
 rem_c=${rem_b%BuildVersion:*}
 rem_d=${rem_c//$'\n'/}
 os=$rem_d
@@ -14,9 +12,9 @@ os=$rem_d
 kernel=$(uname -rs)
 
 # Get wm from xinitrc
-while read -r line; do
-    [ "${line#exec }" = "$line" ] || wm="${line#exec }"
-done < "$HOME/.xinitrc"
+#while read -r line; do
+#    [ "${line#exec }" = "$line" ] || wm="${line#exec }"
+#done < "$HOME/.xinitrc"
 
 # Colors and palette method stolen from dylanaraps pftech
 # https://github.com/dylanaraps/pfetch
