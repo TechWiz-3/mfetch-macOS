@@ -1,4 +1,5 @@
 # mfetch for mac
+![Shellcheck](https://img.shields.io/github/workflow/status/TechWiz-3/mfetch-macos/Shellcheck.svg?style=for-the-badge)  
 Thanks to the great work of the original creator for making it so easy for a beginner to edit the script to work on Macs. Be sure to check the original repo out and give it a star.
 
 ## Before (on linux)
@@ -14,15 +15,10 @@ Thanks to the great work of the original creator for making it so easy for a beg
 <p><img alt="screenshot" src="https://i.imgur.com/swggBJW.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/gACbMVK.png" width="700px"></p>
 
-<h1>mfetch</h1>
-<p>A minimal Linux fetch script</p>
-
-![Shellcheck](https://img.shields.io/github/workflow/status/TechWiz-3/mfetch-macos/Shellcheck.svg)
-
-mfetch is a tiny fetch script using less than 30 sloc!
+mfetch is a tiny fetch script using less than 30 sloc! The original script returned `21` sloc. This one returns `29` sloc.  
 ```sh
 $ grep -v '^$\|^#' mfetch | wc -l
-21
+29
 ```
 
 The `wm` row has been replaced by one displaying the terminal type
