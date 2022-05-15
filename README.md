@@ -17,7 +17,7 @@ Thanks to the great work of the original creator for making it so easy for a beg
 <h1>mfetch</h1>
 <p>A minimal Linux fetch script</p>
 
-![Shellcheck](https://github.com/depsterr/mfetch/workflows/Shellcheck/badge.svg)
+![Shellcheck](https://github.com/TechWiz-3/mfetch-macos/workflows/Shellcheck/badge.svg)
 
 mfetch is a tiny fetch script using less than 30 sloc!
 ```sh
