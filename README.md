@@ -18,6 +18,9 @@ git clone https://github.com/TechWiz-3/mfetch-macos.git
 cd mfetch-macos
 make
 ```
+The make command can also be replaced by the following options
+`install -m755 mfetch /usr/local/bin/mfetch`
+`cp mfetch /usr/local/bin/mfetch; chmod +x /usr/local/bin/mfetch`
 
 ## Before (on linux)
 <p><img alt="screenshot" src="https://github.com/depsterr/mfetch/blob/master/scrot/scrot3.png" width="700px"></p>
