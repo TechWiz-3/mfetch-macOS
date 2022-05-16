@@ -14,7 +14,7 @@ The `wm` row has been replaced by one displaying the terminal type
 
 ## Install
 ```sh
-git clone https://github.com/TechWiz-3/mfetch-macos.git`
+git clone https://github.com/TechWiz-3/mfetch-macos.git
 cd mfetch-macos
 make
 ```
