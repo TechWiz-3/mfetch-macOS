@@ -1,4 +1,4 @@
-![Image](/scrot/new/dark_mode.png)
+![Image](scrot/new/dark_mode.png)
 
 # mfetch for mac
 ![Shellcheck](https://img.shields.io/github/workflow/status/TechWiz-3/mfetch-macos/Shellcheck.svg?style=for-the-badge&logo=gnubash&color=blue&label=shellcheck)  
