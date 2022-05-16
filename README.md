@@ -1,5 +1,5 @@
 # mfetch for mac
-![Shellcheck](https://img.shields.io/github/workflow/status/TechWiz-3/mfetch-macos/Shellcheck.svg?style=for-the-badge&logo=gnubash&color=blue)  
+![Shellcheck](https://img.shields.io/github/workflow/status/TechWiz-3/mfetch-macos/Shellcheck.svg?style=for-the-badge&logo=gnubash&color=blue&label=shellcheck)  
 Thanks to the great work of the original creator for making it so easy for a beginner to edit the script to work on Macs. Be sure to check the original repo out and give it a star.
 
 ## Before (on linux)
