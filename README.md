@@ -31,3 +31,7 @@ make
 <p><img alt="screenshot" src="https://i.imgur.com/9AYZhN2.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/swggBJW.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/gACbMVK.png" width="700px"></p>
+
+---
+### 🎉 Commit labels
+If you're interested in the commit labels used in this repo, check out my [git emoji](https://github.com/TechWiz-3/git-commit-emojis) project
