@@ -7,6 +7,7 @@
 
 # read system info
 host=$(hostname)
+
 # get OS name and version
 os_name=$(sw_vers | awk 'NR==1{print $2 " " $3 " " $4}')
 os_ver=$(sw_vers | awk 'NR==2{print $2 " " $3 " " $4}')
@@ -14,11 +15,11 @@ os_ver=$(sw_vers | awk 'NR==2{print $2 " " $3 " " $4}')
 # get kernel name and version
 kernel=$(uname -rs)
 
-# Get terminal instead of wm
+# Get terminal
 term_full="$TERM ${TERM_PROGRAM//_/ }"
 terminal=$(echo $term_full | awk '{print $2 " " $3 " " $4}')
 
-# Colors and palette method stolen from dylanaraps pftech
+# Colors and palette method taken from dylanaraps pftech
 # https://github.com/dylanaraps/pfetch
 c0='[0m';
 c1='[31m'; c2='[32m'
