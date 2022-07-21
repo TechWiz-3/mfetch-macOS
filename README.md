@@ -35,11 +35,11 @@ cp mfetch /usr/local/bin/mfetch; chmod +x /usr/local/bin/mfetch
 <p><img alt="screenshot" src="https://i.imgur.com/n8PDmNf.png" width="700px"></p>
 
 ## After
+Font: Caskaydia Cove
 <p><img alt="screenshot" src="https://i.imgur.com/Y72s1w4.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/ZdOo6Sn.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/9AYZhN2.png" width="700px"></p>
 <p><img alt="screenshot" src="https://i.imgur.com/swggBJW.png" width="700px"></p>
-<p><img alt="screenshot" src="https://i.imgur.com/gACbMVK.png" width="700px"></p>
 
 ---
 ### 🎉 Commit labels
